@@ -1,6 +1,4 @@
 #labels Featured
-#Demonstrations.
+# Demonstrations.
 
 = Hex Display =
-
-
