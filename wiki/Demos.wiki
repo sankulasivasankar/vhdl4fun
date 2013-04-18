@@ -7,4 +7,4 @@
 
 = Pong Game =
 
-<wiki:video url="http://www.youtube.com/watch?v=WmgmzuTR5zs"/>
+<wiki:video url="http://www.youtube.com/watch?v=YTXdPHsVQnc"/>
